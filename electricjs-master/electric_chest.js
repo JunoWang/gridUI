@@ -79,7 +79,7 @@ var open_chest = function() {
 		icon_block.setAttribute('class', "row");
 		chest.appendChild(icon_block);
 
-		//for each data object, create an icon element and populate it with an image
+		//for each data object, create an icon element and populate it with an images
 		//and a short descriptor
 		for(var i in data) {
 
