@@ -15,34 +15,39 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+      <script type="text/javascript"  src = "./circuit-simulator-master2/js/cktsim.js"></script>
+      <script type="text/javascript"  src="./circuit-simulator-master2/js/schematic.js"></script>
   </head>
   <body style="background-color: #5461B6">
     <div class = "container-fluid"  >
         <div class ="row" >
             <div class = "col-md-6 col-md-offset-5">
-                <h1 style="color: #D7D9EA">Circuit builder</h1>
+                <h1 style="color: #D7D9EA">Power Flow</h1>
+
             </div>
         </div>
     </div>
     <section>
         <div class =" container" id = "toolbox">
+            <input style="align-self: center" type="hidden" class="schematic" name="schematic1" width="1100" height="900"/>
 
-                    <div class = "row" >
-                        <div class="col-md-3">
-                        <ul>
-                           <li><h3 style="color: #D7D9EA">Circuit Box</h3></li>
-                            <li><a>1111</a></li>
-                            <li><a>22222</a></li>
-                            <li><a>333333</a></li>
-                        </ul>
-                        </div>
-                        <div class ="col-md-offset-3" style="padding-top: 21px">
-                        <canvas id="myCanvas" width="900" height="800" style="background-color: #607bab">s
-                        </canvas>
-                        <script src = "./js/electric.js"></script>
-                        </div>
-                    </div>
- 
+                    <!--<div class = "row" >-->
+                        <!--<div class="col-md-2" >-->
+                        <!--<ul>-->
+                           <!--<h3 style="color: #D7D9EA" >Tool Box</h3>-->
+                            <!--<script src="./electricjs-master/electric.js"></script>-->
+                            <!--<li><a><link rel="apple-touch-icon" sizes="57x57" href="./icons/apple-touch-icon-57x57.png"></a></li>-->
+                            <!--<li><a><link rel="apple-touch-icon" sizes="60x60" href="./icons/apple-touch-icon-60x60.png"></a></li>-->
+                            <!--<li><a><link rel="apple-touch-icon" sizes="72x72" href="./icons/apple-touch-icon-72x72.png"></a></li>-->
+                        <!--</ul>-->
+                        <!--</div>-->
+                        <!--<div class ="col-md-offset-2" style="padding-top: 21px">-->
+                        <!--<canvas id="myCanvas" width="1000" height="800" style="background-color: #607bab">s-->
+                        <!--</canvas>-->
+
+                        <!--</div>-->
+                    <!--</div>-->
+
         </div>
     </section>
 
