@@ -127,7 +127,7 @@ equal_array = function(s1, s2) {
 * PARAM w: This time, we're talking about the width of the component.  This
 * can in fact actually change
 * PARAM h: Obvious enough, the height of the component
-* PARAM src: The path to the image used to represent the component, its
+* PARAM src: The path to the images used to represent the component, its
 * graphical avatar so-to-speak
 * PARAM context: The context of the canvas that the component will be drawn on
 *
@@ -197,7 +197,7 @@ function Component(x, y, w, h, src, context) {
   //Look at isPowered and isGrounded for details
   this.switched = false;
   
-  //Called when canvas is refreshed.  Basically, it draws the image, and if
+  //Called when canvas is refreshed.  Basically, it draws the images, and if
   //the mouse cursor is over the component, then it displays info depending
   //on whether sim is in simulation mode or build mode
   this.draw = function(context) {
@@ -1443,7 +1443,7 @@ function canvasState(canvas) {
   this.over_erase = false;
   this.over_simulate = false;
   
-  //the button cover image.  "Houses" the buttons.
+  //the button cover images.  "Houses" the buttons.
   var button_cover = new Image();
   button_cover.src = "/static/button_cover.png";
   button_cover.onload = function() {
@@ -1455,7 +1455,7 @@ function canvasState(canvas) {
   drag_indicate.src = "/static/move_button.png";
   
   //Image for when drag button is on.  Since state is set to drag by default,
-  //the default is for this image to display first
+  //the default is for this images to display first
   var indicate_on = new Image();
   indicate_on.src = "/static/move_button_on.png";
   indicate_on.onload = function() {
@@ -1530,7 +1530,7 @@ function canvasState(canvas) {
     if(!(this.drawing || this.erasing || this.simulating || this.rotating)) {
       fg_context.drawImage(indicate_on, 740, 30);
     }
-    //The else conditional always draws the "off" button image instead
+    //The else conditional always draws the "off" button images instead
     else { fg_context.drawImage(drag_indicate, 740, 30); }
     
     //Rotate button
