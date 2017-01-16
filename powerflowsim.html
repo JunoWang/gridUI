@@ -4,6 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+      <script type="text/javascript" src="http://d3js.org/d3.v3.js"></script>
+      <script type="text/javascript" src="http://d3js.org/d3.hexbin.v0.min.js"></script>
+      <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.js"></script>
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Gridlab-d PowerFlow Simulator</title>
     <!-- Bootstrap -->
@@ -14,7 +17,9 @@
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+
+
+      <![endif]-->
 
   </head>
   <body style="background-color: #6d81b6">
@@ -25,52 +30,60 @@
             </div>
         </div>
     </div>
-    <section>
+
         <div class =" container" id = "toolbox">
-                    <div class = "row" >
+                    <div class = row>
                         <div class="col-md-2" >
-                           <h3 style="color: #D7D9EA" >Tool Box</h3>
+                            <h3 style="color: #D7D9EA" >Tool Box</h3>
                             <div class = "row">
                                 <div class="col-sm-1 ">
-
-                                    <br id="generator" onClick="generator(0)"><img src="images/Generator.png" height="50" width="50"></br>
+                                    <br id="Generator1" onClick="generator(0)"><img src="images/Generator.png" height="50" width="50" draggable="true"></br>
                                     <h5 style="color:#D7D9EA " >generator</h5>
                                 </div>
                                 <div class = "col-sm-offset-5">
-                                    <br id="transformer" onClick="transformer(1)"><img src="images/Transformer.png" height="50" width="50"></br>
+                                    <br id="Transformer" onClick="transformer(1)"><img src="images/Transformer.png" height="50" width="50" draggable="true"></br>
                                     <h5 style="color:#D7D9EA " >transformer</h5>
                                 </div>
-                             </div>
+                            </div>
                             <div class=" row" >
                                 <div class="col-sm-1 ">
-                                    <br id="Bus" onClick="bus(2)"><img src="images/Bus.png" height="50" width="50"></br>
+                                    <br id="Bus2" onClick="bus(2)"><img src="images/Bus.png" height="50" width="50" draggable="true"></br>
                                     <h5 style="color:#D7D9EA " >bus</h5>
                                 </div>
                                 <div class = "col-sm-offset-5">
-                                    <br id="Line" onClick="line(3)"><img src="images/line.png"height="50" width="50"></br>
+                                    <br id="Line2" onClick="line(3)"><img src="images/line.png"height="50" width="50" draggable="true"></br>
                                     <h5 style="color:#D7D9EA " >line</h5>
                                 </div>
                             </div>
                             <div class=" row" >
                                 <div class="col-sm-1 ">
-                                    <br id="Load" onClick="line(4)"><img src="images/Load.png"height="50" width="50"></br>
+                                    <br id="Load1" onClick="line(4)"><img src="images/Load.png"height="50" width="50" draggable="true"></br>
                                     <h5 style="color:#D7D9EA " >Load</h5>
                                 </div>
-
                             </div>
                         </div>
-                        <div class ="col-md-offset-2" style="padding-top: 21px">
-                            <canvas  id = "canvas" width="1000" height="600" style = "background: #f7e7f6"></canvas>
-                        </div>
-
+                        <div id ="chart"class ="col-md-offset-2" style="padding-top: 21px"></div>
+                            <!--<script type="text/javascript" src="js/color.js"></script>-->
                     </div>
 
+        <!--<canvas  id="canvas"></canvas>-->
+            <div id="grid" class ="col-md-offset-2">
+                <img src="./images/Generator.png" id="generator"height="100" width="110" padding="0px">
+                <img src="./images/line.png" id="line" height="100" width="110"padding="0px">
+                <img src="./images/Bus.png" id="bus" height="100" width="110"padding="0px">
+                <img src="./images/Transformer.png" id="trans" height="100" width="110"padding="0px">
+                <img src="./images/Bus.png" id="bus1" height="100" width="110"padding="0px">
+                <img src="./images/line.png" id="line1" height="100" width="110"padding="0px">
+                <img src="./images/Load1.png" id="load" height="100" width="110"padding="0px">
+            </div>
         </div>
-    </section>
-
+    <script type="text/javascript" src="js/color.js"></script>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
+
+    <!--<script src="js/fabric.js-1.7.3"></script>-->
+
   </body>
 </html>

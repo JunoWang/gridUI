@@ -5,65 +5,75 @@
  *  Also inspired by "drawpicture" online html canvas
  */
 // get canvas
-var canvas=document.getElementById('canvas');
-var bg_context=canvas.getContext('2d');
-this.highlights = null;
-setup_grid(bg_context, this.highlights);
+var canvas = new fabric.Canvas('canvas')
+var bus = document.getElementById('bus');
+var gen = document.getElementById('generator');
+var line = document.getElementById('line');
+var Load = document.getElementById('load');
+var trans = document.getElementById('trans');
 
-//set up variable
-var flag=0;
-var startX;
-var startY;
-var endX;
-var endY;
+var busInstance = new fabric.Image(bus, {
+    left: 100,
+    top: 100,
+    angle: 30,
+    opacity: 0.85
+});
+canvas.add(busInstance);
 
-//set up buttons
-var Bus = document.getElementById('Bus');
-var Generator = document.getElementById('Generator')
-var Line = document.getElementById('Line')
-var Load = document.getElementById('Load')
-var Transformer = document.getElementById('Transformer')
-// put all buttons in an array to avoid conflicts
-var actions = [Bus,Generator,Line,Load,Transformer]
-this.components = [];
-this.wires = [];
-this.branches = [];
+var genInstance = new fabric.Image(gen, {
+    left: 100,
+    top: 100,
+    angle: 30,
+    opacity: 0.85,
 
-//attributes specifically for dragging
-this.dragging = false;
-this.xOffset = 0;
-this.yOffset = 0;
+});
+canvas.add(genInstance);
 
-var bus_cover = new Image();
-bus_cover.src = "/images/bus.png";
-bus_cover.onload = function() {
-    bg_context.drawImage(bus_cover, 730, 10);
-};
+var lineInstance = new fabric.Image(line, {
+    left: 100,
+    top: 100,
+    angle: 30,
+    opacity: 0.85
+});
+canvas.add(lineInstance);
 
-var gen_cover = new Image();
-gen_cover.src = "./images/Generator.png";
-gen_cover.onload = function () {
-    bg_context.drawImage(gen_cover,730,10);
-}
+var loadInstance = new fabric.Image(Load, {
+    left: 100,
+    top: 100,
+    angle: 30,
+    opacity: 0.85,
+    size: 50
+});
+canvas.add(loadInstance);
 
-var line_cover =  new Image()
-line_cover.src ="./images/line.png"
-line_cover.onload = function () {
-    bg_context.drawImage(line_cover,730,10)
-}
+var transInstance = new fabric.Image(trans, {
+    left: 100,
+    top: 100,
+    angle: 30,
+    opacity: 0.85
+});
+canvas.add(transInstance);
 
-var Load_cover =  new Image()
-Load_cover.src ="./images/Load.png"
-Load_cover.onload = function () {
-    bg_context.drawImage(Load_cover,730,10)
-}
-var trans_cover =  new Image()
-trans_cover.src ="./images/line.png"
-trans_cover.onload = function () {
-    bg_context.drawImage(trans_cover,730,10)
-}
-// figuring out the drag stuff
-// help link : http://blog.csdn.net/xsc_c/article/details/10857859
-//  http://www.tuicool.com/articles/bMBVzu
-// also helped document  circuit-simulator-master2/schematic.js
-// electricjs-master/elecetric.js(canvasState)
+canvas.on('mouse:down', function(options) {
+    console.log(options.e.clientX, options.e.clientY);
+});
+canvas.on('mouse:up');
+canvas.on('mouse: move');
+busInstance.on('select');
+busInstance.on('modified');
+busInstance.on('moving');
+genInstance.on('select');
+genInstance.on('modified');
+genInstance.on('moving');
+lineInstance.on('select');
+lineInstance.on('modified');
+lineInstance.on('moving');
+loadInstance.on('select');
+loadInstance.on('modified');
+loadInstance.on('moving');
+transInstance.on('select');
+transInstance.on('modified');
+transInstance.on('moving');
+
+
+

@@ -1,8 +1,0 @@
-src/
-dev/
-demo/
-config/
-build/
-dev_build/
-.*
-webpack.*.config.js

@@ -2,73 +2,148 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd0c9e46-fc1c-4255-8816-e2d107dc696d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Bus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Generator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Load.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Transformer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/powerflowsim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/powerflowsim.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit drawing board.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/android-chrome-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/android-chrome-192x192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/android-chrome-36x36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/android-chrome-48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/android-chrome-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/android-chrome-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon-120x120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon-152x152.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon-180x180.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon-57x57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon-60x60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon-76x76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/favicon-194x194.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/favicon-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/mstile-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/mstile-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/mstile-310x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/mstile-310x310.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/mstile-70x70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/PowerFlow.pde" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-bg_gloss-wave_16_121212_500x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-bg_highlight-hard_15_888888_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-bg_highlight-hard_55_555555_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-bg_highlight-soft_35_adadad_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-bg_highlight-soft_60_dddddd_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-bg_inset-soft_15_121212_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-icons_666666_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-icons_aaaaaa_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-icons_bbbbbb_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-icons_c98000_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-icons_cccccc_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/images/ui-icons_f29a00_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/css/vader/jquery-ui-1.8.14.custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/js/jquery-1.5.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/js/jquery-ui-1.8.14.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/js/jquery.mousewheel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/js/processing-1.2.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/powerflow-master/powerflow-screenshot.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/image/color-#e4caed.png" afterPath="$PROJECT_DIR$/images/Brush.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/deploy.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/mocha.opts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/defaultCircuit.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/android-chrome-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/android-chrome-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/android-chrome-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/android-chrome-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/android-chrome-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/android-chrome-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon-120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon-76x76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/favicon-194x194.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/mstile-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/mstile-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/mstile-310x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/mstile-310x310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/icons/mstile-70x70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/vendor/octicons/octicons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/vendor/octicons/octicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/vendor/octicons/octicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/vendor/octicons/octicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/public/vendor/octicons/octicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/Constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/Modes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/CircuitUpdater.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/Paths.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/Solver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/__tests__/CircuitData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/__tests__/CircuitUpdater_tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/__tests__/Paths_tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/__tests__/Solver_tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/__tests__/equation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/equation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/models/Capacitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/models/CurrentSource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/models/Ground.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/models/Inductor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/models/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/models/Resistor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/models/VoltageSource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/models/Wire.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/models/__tests__/Models_tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/circuit/models/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/actions/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/configureStore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/__tests__/CircuitData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/__tests__/mainLoop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/addingComponent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/currentSpeed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/mainLoop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/modes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/mousePosition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/moveComponent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/selectComponent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/toaster.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/state/reducers/views.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/Resize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/Updater.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/components/Button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/components/Toaster.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/Constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/Utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/boundingBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/components/Capacitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/components/CurrentSource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/components/Ground.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/components/Inductor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/components/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/components/Resistor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/components/VoltageSource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/components/Wire.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/components/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/loop/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/render/components.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/render/connectors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/render/current.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/render/dragPoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/render/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/render/labels.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/diagram/render/transforms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/sidebar/CurrentSpeed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/sidebar/Sidebar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/sidebar/component-inspection/ComponentInspector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/sidebar/component-inspection/editable-types/Number.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/sidebar/component-inspection/editable-types/TypeSelect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/sidebar/component-selection/ArtWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/sidebar/component-selection/ButtonGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/sidebar/component-selection/ComponentButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/sidebar/component-selection/ComponentSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/sidebar/component-selection/art/Mouse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/utils/DrawingUtils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/utils/camelToSpace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/ui/utils/getWindowDimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/src/utils/volts2RGB.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master/test-setup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master2/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master2/js/cktsim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circuit-simulator-master2/js/schematic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/electricjs-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/electricjs-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/electricjs-master/electric.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/electricjs-master/electric_chest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/electricjs-master/electric_general.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/electricjs-master/electric_power.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/electricjs-master/electric_setup.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/circuit-simulator-master2/js/schematic.js" afterPath="$PROJECT_DIR$/circuit-simulator-master2/js/schematic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/electricjs-master/electric.js" afterPath="$PROJECT_DIR$/electricjs-master/electric.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/electricjs-master/electric_chest.js" afterPath="$PROJECT_DIR$/electricjs-master/electric_chest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/powerflowsim.js" afterPath="$PROJECT_DIR$/js/powerflowsim.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/powerflowsim.html" afterPath="$PROJECT_DIR$/powerflowsim.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -89,32 +164,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="powerflowsim.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="powerflowsim.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/powerflowsim.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="685">
-              <caret line="56" column="39" lean-forward="false" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+            <state relative-caret-position="805">
+              <caret line="35" column="28" lean-forward="false" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#canvas#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schematic.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circuit-simulator-master2/js/schematic.js">
+      <file leaf-file-name="color.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/color.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-345">
-              <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+            <state relative-caret-position="230">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -122,45 +196,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="powerflowsim.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1150">
+              <caret line="50" column="46" lean-forward="false" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="powerflowsim.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/powerflowsim.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cktsim.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circuit-simulator-master2/js/cktsim.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="canvas.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Drawpicture/canvas.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="32" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="713">
+              <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="canvas.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Drawpicture/canvas.html">
+      <file leaf-file-name="intro.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/intro.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="29" column="103" lean-forward="false" selection-start-line="29" selection-start-column="103" selection-end-line="29" selection-end-column="103" />
+            <state relative-caret-position="92">
+              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -178,6 +241,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>bread</find>
+      <find>drag</find>
+      <find>stat</find>
+      <find>avg</find>
+      <find>canvas</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -196,8 +263,13 @@
         <option value="$PROJECT_DIR$/circuit drawing board.html" />
         <option value="$PROJECT_DIR$/js/powerflwsim.js" />
         <option value="$PROJECT_DIR$/Drawpicture/canvas.html" />
-        <option value="$PROJECT_DIR$/powerflowsim.html" />
+        <option value="$PROJECT_DIR$/electricjs-master/electric.js" />
+        <option value="$PROJECT_DIR$/polygons-gh-pages/play/automatic/automatic.js" />
+        <option value="$PROJECT_DIR$/polygons-gh-pages/play/mini/mini.js" />
         <option value="$PROJECT_DIR$/js/powerflowsim.js" />
+        <option value="$PROJECT_DIR$/hex.html" />
+        <option value="$PROJECT_DIR$/js/color.js" />
+        <option value="$PROJECT_DIR$/powerflowsim.html" />
       </list>
     </option>
   </component>
@@ -212,9 +284,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/circuit-simulator-master/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1280" />
@@ -248,48 +317,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gridUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gridUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gridUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gridUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gridUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gridUI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Drawpicture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -309,21 +336,25 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.powerflowsim.html">
     <configuration default="false" name="canvas.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gridUI/Drawpicture/canvas.html">
       <method />
     </configuration>
-    <configuration default="false" name="test" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gridUI/test">
-      <method />
-    </configuration>
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gridUI/powerflow-master/index.html">
       <method />
     </configuration>
     <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gridUI/circuit-simulator-master/dev_build/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gridUI/polygons-gh-pages/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="hex.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gridUI/hex.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -388,19 +419,21 @@
     <configuration default="false" name="powerflowsim.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/gridUI/powerflowsim.html">
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.powerflowsim.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.canvas.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.test" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.hex.html" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.canvas.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.hex.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.canvas.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -416,12 +449,27 @@
       <updated>1484371562036</updated>
       <workItem from="1484371565057" duration="18376000" />
       <workItem from="1484454413616" duration="9228000" />
-      <workItem from="1484484212971" duration="6668000" />
+      <workItem from="1484484212971" duration="13187000" />
     </task>
+    <task id="LOCAL-00001" summary="new change on web. starting of javascript">
+      <created>1484494025377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1484494025377</updated>
+    </task>
+    <task id="LOCAL-00002" summary="need help for drag function. still figuring out dragging function... helped document, link leaved in command, other help document also in git.">
+      <created>1484503862038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1484503862038</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34272000" />
+    <option name="totallyTimeSpent" value="61700000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,157 +508,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new change on web. starting of javascript" />
+    <MESSAGE value="need help for drag function. still figuring out dragging function... helped document, link leaved in command, other help document also in git." />
+    <option name="LAST_COMMIT_MESSAGE" value="need help for drag function. still figuring out dragging function... helped document, link leaved in command, other help document also in git." />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../CircuitSim.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/powerflow-master/powerflow-screenshot.png" />
-    <entry file="file://$PROJECT_DIR$/powerflow-master/README" />
-    <entry file="file://$PROJECT_DIR$/powerflow-master/PowerFlow.pde" />
-    <entry file="file://$PROJECT_DIR$/powerflow-master/index.html" />
-    <entry file="file://$PROJECT_DIR$/electricjs-master/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/electricjs-master/electric.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="40" column="47" lean-forward="false" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/electricjs-master/electric_general.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/electricjs-master/electric_chest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/electricjs-master/electric_setup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/node_modules/art/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/node_modules/array-reduce/readme.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-535">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/dev_build/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1725">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/apple-touch-icon-144x144.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/apple-touch-icon-120x120.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/apple-touch-icon-60x60.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/android-chrome-192x192.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/apple-touch-icon-72x72.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/browserconfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/favicon-96x96.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/favicon-32x32.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/apple-touch-icon-180x180.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/favicon-16x16.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/circuit-simulator-master/icons/apple-touch-icon-114x114.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -655,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="537">
           <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,7 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="95" lean-forward="false" selection-start-line="13" selection-start-column="95" selection-end-line="13" selection-end-column="95" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,51 +610,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/tansformer.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Drawpicture/down.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/powerflowsim.html">
+    <entry file="file://$PROJECT_DIR$/images/tansformer.png" />
+    <entry file="file://$PROJECT_DIR$/Drawpicture/down.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="56" column="39" lean-forward="false" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#canvas#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circuit-simulator-master2/js/schematic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -756,34 +626,256 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
           <caret line="29" column="103" lean-forward="false" selection-start-line="29" selection-start-column="103" selection-end-line="29" selection-end-column="103" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/circuit-simulator-master2/js/cktsim.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="-92">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circuit-simulator-master/dev_build/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3590">
+          <caret line="56388" column="79" lean-forward="false" selection-start-line="56388" selection-start-column="75" selection-end-line="56388" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Drawpicture/canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/electricjs-master/electric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17992">
+          <caret line="1395" column="20" lean-forward="false" selection-start-line="1395" selection-start-column="20" selection-end-line="1395" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/favicon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circuit-simulator-master2/js/schematic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="3772" column="8" lean-forward="false" selection-start-line="3772" selection-start-column="8" selection-end-line="3772" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/play/automatic/automatic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/play/intro/MouseBlah.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/js/Mouse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/play/automatic/automatic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/play/automatic/automatic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/play/mini/mini_bored.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/play/mini/mini_blah.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/play/mini/mini_bias_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/play/mini/mini.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/play/mini/mini.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/intro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/UNCOPYRIGHT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/js/intro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polygons-gh-pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9366">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/fabric.js-1.7.3/.eslintrc_tests">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/fabric.js-1.7.3/.eslintrc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/fabric.js-1.7.3/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1679">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Bus.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Load.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/line.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/powerflowsim.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/color.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Drawpicture/canvas.js">
+    <entry file="file://$PROJECT_DIR$/hex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="32" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="1150">
+          <caret line="50" column="46" lean-forward="false" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/powerflowsim.js">
+    <entry file="file://$PROJECT_DIR$/powerflowsim.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="805">
+          <caret line="35" column="28" lean-forward="false" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

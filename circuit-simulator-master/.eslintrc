@@ -1,6 +1,0 @@
-{
-  "extends": "circuitsim/react",
-  "globals": {
-    "__DEV__": true
-  }
-}
